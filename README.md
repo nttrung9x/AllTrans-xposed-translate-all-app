@@ -1,3 +1,5 @@
+# https://github.com/akhilkedia/AllTrans
+
 <!-- omit in toc -->
 # ![AllTrans](https://raw.githubusercontent.com/akhilkedia/AllTrans/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)AllTrans™ - Completely Translate Apps
 
